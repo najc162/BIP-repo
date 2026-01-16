@@ -1,0 +1,19 @@
+﻿Work Item Type;Title 1;Title 3;Title 4;State
+Epic;Emergency Response Management;;;New
+User Story;;Geological feature;Emergency responders can navigate to affecte areas and send updates;New
+Task;;;Design map and geolocation UI;New
+Test Case;;;Implement GPS location tracking;New
+Epic;Secure Communications;;;New
+User Story;;Secure messaging;Responder can communicate securely with command centre;New
+Task;;;Design messaging UI;New
+Task;;;Implement encrypted messaging;New
+Test Case;;;Send and reieve encrypted messages;Design
+Epic;Central Comand Hub;;;New
+User Story;;Central hub dashboard;Administrator monitors real-time sensors and field data;New
+Task;;;Design dashboard UI;New
+Task;;;Integrate IoT sensors data;New
+Test Case;;;Display real-time events on dashboard;Design
+Epic;System Characteristics;;;New
+User Story;;Multilingual support;Users can switch system language;New
+Task;;;Implement language selection;New
+Test Case;;;Switch application language;Design
